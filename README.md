@@ -1,4 +1,5 @@
 # Neural Network from Scratch using NumPy
+This line was added as part of my GitHub assignment.
 
 ### **Submission for the AI/ML Head Role**
 
